@@ -5,51 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c215d8-46dd-4cfd-9a7b-89dbcca6fad5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/InsightPortfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/refdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/trades.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/CSS/drums.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/CSS/jq.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/CSS/stylesdice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/JS/dice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/JS/drums.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/JS/jq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dice/dice1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dice/dice2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dice/dice3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dice/dice4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dice/dice5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dice/dice6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drums/crash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drums/kick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drums/snare.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drums/tom1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drums/tom2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drums/tom3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drums/tom4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sounds/crash.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sounds/kick-bass.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sounds/snare.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sounds/tom-1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sounds/tom-2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sounds/tom-3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sounds/tom-4.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dicee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/drums.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/fun.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/jq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/CSS/jq.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/CSS/jq.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/JS/jq.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/JS/jq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/jq.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jq.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +93,7 @@
       <updated>1706345678713</updated>
       <workItem from="1706345680936" duration="12251000" />
       <workItem from="1706438087917" duration="16345000" />
-      <workItem from="1706983381394" duration="24240000" />
+      <workItem from="1706983381394" duration="27168000" />
     </task>
     <servers />
   </component>

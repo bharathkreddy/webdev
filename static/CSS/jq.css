@@ -1,6 +1,7 @@
 body{
     background-color: #4ECCA3;
     color: #DA0463 ;
+    font-size: 30px;
 }
 
 .heading h1{
@@ -28,4 +29,25 @@ body{
 
 li.hidden{
     display: none;
+}
+
+button{
+    height: 60px;
+    width: 300px;
+    background-color: blue;
+    color: red;
+    margin:0 20px;
+    font-size: 50px;
+}
+
+.userInput{
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    font-size: 60px;
+    align-items: center;
+    justify-content: center;
+    border: #393E46;
+    background-color: yellow;
 }
