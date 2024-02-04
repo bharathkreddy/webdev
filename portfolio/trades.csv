@@ -1,0 +1,5 @@
+Trade Date,Symbol,Trade Quantity,Trade Price,Currency,Total Trade Amount,Commission,Net Trade Amount
+2023-01-15,AAPL,10,148.0,USD,1480.0,10,1470.0
+2023-02-05,AMZN,-5,3150.0,USD,-15750.0,15,-15765.0
+2023-02-20,TSLA,15,680.0,USD,10200.0,10,10190.0
+2023-03-10,GOOGL,-10,2750.0,USD,-27500.0,15,-27515.0

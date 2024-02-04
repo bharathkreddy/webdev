@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83c215d8-46dd-4cfd-9a7b-89dbcca6fad5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/InsightPortfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/refdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/trades.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/CSS/drums.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/CSS/jq.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/CSS/stylesdice.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/dice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/drums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/JS/jq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dice/dice1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dice/dice2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dice/dice3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dice/dice4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dice/dice5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dice/dice6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/drums/crash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/drums/kick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/drums/snare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/drums/tom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/drums/tom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/drums/tom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/drums/tom4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sounds/crash.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sounds/kick-bass.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sounds/snare.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sounds/tom-1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sounds/tom-2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sounds/tom-3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/sounds/tom-4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/dicee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/drums.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/fun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/jq.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bWzZbe3BfU6vM831oqW1Zfrcnj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.fun.html.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/CSS" />
+      <recent name="$PROJECT_DIR$/static/JS" />
+      <recent name="$PROJECT_DIR$/static/images/dice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c215d8-46dd-4cfd-9a7b-89dbcca6fad5" name="Changes" comment="" />
+      <created>1706345678713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706345678713</updated>
+      <workItem from="1706345680936" duration="12251000" />
+      <workItem from="1706438087917" duration="16345000" />
+      <workItem from="1706983381394" duration="24240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InsightPortfolio$main.coverage" NAME="main Coverage Results" MODIFIED="1706991313581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

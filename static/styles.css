@@ -1,0 +1,106 @@
+body {
+    background-color: #282832; /* Dark background for the whole page */
+    color: white; /* Text color */
+    font-family: 'Open Sans', sans-serif;;
+    margin: 0;
+    padding: 0; /* Adds some padding around the cards */
+}
+
+.heading {
+  padding: 10px; /* Adds padding inside the header */
+  margin: 0 100px; /* Adds margin on the left and right */
+  display: flex; /* Aligns header content in a row */
+  justify-content: space-between; /* Justifies content to have space between */
+  align-items: center; /* Aligns items vertically */
+  font-size: 0.7em;
+}
+
+.card-container {
+  display: flex; /* Aligns cards in a row */
+  justify-content: space-between; /* Evenly spaces the cards */
+  flex-wrap: wrap; /* Allows cards to wrap to the next line on small screens */
+  margin: 0 100px; /* Adds margin on the left and right */
+  gap: 10px; /* Adds space between cards */}
+
+.card {
+  background-color: #32323e; /* Background color for the cards */
+  border-radius: 10px; /* Rounds the corners of the cards */
+  padding: 20px; /* Padding inside the cards */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Adds a subtle shadow */
+  flex: 1; /* Allows cards to grow and occupy the available space */
+  margin: 10px 0; /* Adds margin on the top and bottom */
+  display: flex; /* Aligns card content in a row */
+  align-items: center; /* Aligns card content vertically */
+  justify-content: left; /* Centers card content horizontally */
+  flex-direction: row; /* Stacks card content vertically */
+
+}
+
+.card-icon {
+  background-color: #4e505f; /* Background color for the icon container */
+  width: 50px; /* Width of the icon container */
+  height: 50px; /* Height of the icon container */
+  border-radius: 5%; /* Makes the icon container circular */
+  display: flex; /* Aligns the icon horizontally and vertically */
+  align-items: center; /* Aligns the icon vertically */
+  justify-content: center; /* Centers the icon horizontally */
+  margin: 10px;
+  /*margin-bottom: 10px; !* Adds space between the icon and the text *!*/
+  /*margin-right: 10px; !* Adds space between the icon and the text *!*/
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column; /* Stack title and value on top of each other */
+  justify-content: left; /* Center title and value vertically */
+}
+
+
+.card-icon img {
+  width: 20px; /* Size of the icon */
+  height: 20px; /* Size of the icon */
+}
+
+.card-title {
+  margin: 0; /* Removes default margin */
+  margin-bottom: 4px; /* Adds a small space between title and value */
+  font-size: 0.8em; /* Size of the card title */
+  color: #acb5be; /* Color of the card title */
+}
+
+.card-text {
+  display: flex;
+  flex-direction: row; /* Stack title and value on top of each other */
+  justify-content: left; /* Center title and value vertically */
+}
+
+.card-value {
+  margin: 0; /* Removes default margin */
+  font-size: 1.5em; /* Size of the card value */
+  font-weight: bold; /* Makes the card value bold */
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 32px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}

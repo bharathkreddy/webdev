@@ -1,0 +1,16 @@
+Symbol,Sector,Industry,Market Cap ($B),Country,Rating,Currency
+AAPL,Technology,Consumer Electronics,2200,USA,AA+,USD
+MSFT,Technology,Software,1800,USA,AA+,USD
+AMZN,Consumer Discretionary,E-commerce,1600,USA,AA,USD
+TSLA,Consumer Discretionary,Automobile,600,USA,BBB+,USD
+GOOGL,Communication Services,Internet Services,1500,USA,AA,USD
+FB,Communication Services,Social Media,900,USA,A+,USD
+BRK.A,Financials,Conglomerate,550,USA,AAA,USD
+V,Financials,Credit Services,450,USA,AA-,USD
+JNJ,Healthcare,Pharmaceuticals,400,USA,AAA,USD
+WMT,Consumer Staples,Retail,360,USA,AA,USD
+PG,Consumer Staples,Consumer Goods,340,USA,AA+,USD
+005930.KS,Technology,Electronics,450,South Korea,AA-,KRW
+TM,Consumer Discretionary,Automobile,210,Japan,A+,JPY
+NESN.SW,Consumer Staples,Food Products,320,Switzerland,AA,CHF
+HSBA.L,Financials,Banking,150,UK,A+,GBP

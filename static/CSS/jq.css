@@ -1,0 +1,31 @@
+body{
+    background-color: #4ECCA3;
+    color: #DA0463 ;
+}
+
+.heading h1{
+    display: block;
+    font-size: 5rem;
+    align-content: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.intro p{
+    display: grid;
+    align-items: center;
+    margin: 20px 0;
+    font-size: 3rem;
+    padding: 0 20px;
+}
+
+.list ul{
+    display: grid;
+    font-size: 2rem;
+    font-weight: lighter;
+    margin: 60px 5px;
+}
+
+li.hidden{
+    display: none;
+}
