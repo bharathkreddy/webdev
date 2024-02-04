@@ -16,3 +16,19 @@ $(document).on(
         $(".userInput").text(e.key);
     }
 )
+
+$(".userInput").on(
+    "pointerenter",
+    function fn(){
+        $(".userInput").css("backgroundColor", "red");
+        $(".userInput").css("color", "yellow");
+    }
+)
+
+$(".userInput").on(
+    "pointerleave",
+    function fn(){
+        $(".userInput").css("backgroundColor", "yellow");
+        $(".userInput").css("color", "red");
+    }
+)

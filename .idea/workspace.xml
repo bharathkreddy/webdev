@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c215d8-46dd-4cfd-9a7b-89dbcca6fad5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/CSS/jq.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/CSS/jq.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/JS/jq.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/JS/jq.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/jq.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jq.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,7 @@
       <updated>1706345678713</updated>
       <workItem from="1706345680936" duration="12251000" />
       <workItem from="1706438087917" duration="16345000" />
-      <workItem from="1706983381394" duration="27168000" />
+      <workItem from="1706983381394" duration="29572000" />
     </task>
     <servers />
   </component>
